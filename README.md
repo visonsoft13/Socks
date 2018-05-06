@@ -1,2 +1,2 @@
-# Socks
-Socks Proxy
+# Scripts
+Proxy Socks feito em python
